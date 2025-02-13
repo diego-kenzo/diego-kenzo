@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diego-kenzo
 
-- 🌱 I’m currently learning Front-end
+- 🌱 I’m currently learning Data Science
 
-- 📫 How to reach me diego-kshiba@hotmail.com
+- 📫 How to reach me diegokenzoshiba@gmail.com
